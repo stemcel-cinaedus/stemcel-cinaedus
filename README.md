@@ -9,6 +9,7 @@
  - I'm teaching myself Rust 
 
  <img src="{https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white}" /> 
- <img src="{https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white}" /> 
- <img src="{https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black}" />  
- <img src="{https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white}" />
+  <img src="{https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white}" /> 
+   <img src="{https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black}" />  
+    <img src="{https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white}" />
+</p>
