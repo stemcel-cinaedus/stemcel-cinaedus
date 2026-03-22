@@ -1,4 +1,4 @@
- <p align="center">Welcome to my profile, I'm an American programmer & college student</p>
+ <p align="left">Welcome to my profile, I'm an American programmer & college student</p>
 
  <img src="https://github-readme-stats.vercel.app/api?username=stemcel-cinaedus&show_icons=true&theme=radical&hide_rank=true" width="50%">
 
