@@ -6,7 +6,7 @@
  - I'm currently not focused on any projects, as I'm spending most of my programming time on leetcode or automating linux
  - I'm currently teaching myself Rust 
 
-<table align="center">
+<table align="left">
   <tr>
     <td><img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /></td>
