@@ -1,6 +1,5 @@
  <p align="left">Welcome to my profile, I'm an American programmer & college student</p>
 
- <img src="https://github-readme-stats.vercel.app/api?username=stemcel-cinaedus&show_icons=true&theme=radical&hide_rank=true" width="50%">
 
  - Void Linux user, experience with most distros
  - I'm currently not focused on any projects, as I'm spending most of my programming time on leetcode or automating linux
