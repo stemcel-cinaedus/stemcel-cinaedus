@@ -1,4 +1,4 @@
- <p align="left">Welcome to my profile, I'm an American programmer & college student</p>
+ <p align="left">I am an American programmer & college student</p>
 
 
  - Void Linux user, experience with most distros
