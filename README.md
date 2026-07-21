@@ -2,8 +2,7 @@
 
 
  - Void Linux user, experience with most distros
- - I'm currently not focused on any projects, as I'm spending most of my programming time on leetcode or automating linux
- - I'm currently teaching myself Rust 
+ - Rust larper, will move on whenever the next cool thing comes out
 
 <table align="left">
   <tr>
