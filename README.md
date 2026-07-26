@@ -11,6 +11,4 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/ThinkPad-000000?style=for-the-badge&logo=lenovo&logoColor=red" /></td>
-  </tr>
 </table>
